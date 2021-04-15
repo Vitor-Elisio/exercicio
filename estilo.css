@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+body{
+    background-color: black;
+}
+li{
+    color: white;
+}
+.classe1{
+    color: white;
+}
+.classe2{
+    font-size: 25px;
+}
+.classe3{
+    padding-top: 20px;
+}
